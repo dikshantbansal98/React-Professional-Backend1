@@ -1,0 +1,19 @@
+{
+  "name": "reactprofessionalbackend",
+  "version": "1.0.0",
+  "description": "This is backend services for CRM system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikshantbansal98/React-Professional-Backend1.git"
+  },
+  "author": "\\",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikshantbansal98/React-Professional-Backend1/issues"
+  },
+  "homepage": "https://github.com/dikshantbansal98/React-Professional-Backend1#readme"
+}
