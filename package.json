@@ -1,28 +1,21 @@
 {
-  "name": "react-professionalbackend",
+  "name": "reactprofessionalbackend",
   "version": "1.0.0",
-  "description": "This is a Simple CRM System back-end for customer services.",
+  "description": "This is backend services for CRM system ",
   "main": "index.js",
   "scripts": {
-    "build":"node_modules\\.bin\\tsc",
-    "cb":"node_modules\\.bin\\tsc --watch",
-    "start": "node ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iomegak12/react-professionalbackend.git"
+    "url": "git+https://github.com/dikshantbansal98/React-Professional-Backend1.git"
   },
-  "keywords": [
-    "customers",
-    "react",
-    "backend"
-  ],
-  "author": "Ramkumar J Damodaran",
-  "license": "MIT",
+  "author": "\\",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iomegak12/react-professionalbackend/issues"
+    "url": "https://github.com/dikshantbansal98/React-Professional-Backend1/issues"
   },
-  "homepage": "https://github.com/iomegak12/react-professionalbackend#readme",
+  "homepage": "https://github.com/dikshantbansal98/React-Professional-Backend1#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
